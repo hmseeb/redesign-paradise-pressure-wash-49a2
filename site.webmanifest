@@ -1,0 +1,17 @@
+{
+  "name": "Paradise Pressure Washing",
+  "short_name": "Paradise PW",
+  "description": "Local family-owned exterior cleaning specialists removing moss, algae and black stains from roofs, pavers and driveways in New Smyrna Beach, FL.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#08202f",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
